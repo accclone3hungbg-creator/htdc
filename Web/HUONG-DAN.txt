@@ -1,0 +1,7 @@
+Giai nen zip, vao thu muc "haitac", chon TAT CA file/thu muc ben trong (index.html, run.html, jar, src, ...) roi keo tha len repo GitHub -> Commit.
+Settings -> Pages -> Deploy from a branch -> main / root -> Save.
+Mo https://<ten-ban>.github.io/<ten-repo>/ bang Safari -> Chia se -> Them vao Man hinh chinh.
+Nut goc tren phai: ⌨ ban phim | 🎮 phim so/mui ten | ✨ che do hinh anh (muot/pixel).
+Nut ⛶: tran vien (keo gian kin man hinh) <-> giu ti le (co vien den).
+Muon bam vao "Ten nhan vat": cham vao o do, roi bam nut ⌨ de hien ban phim va go ten.
+Muon an thanh dia chi Safari: Chia se -> Them vao Man hinh chinh, mo bang icon do.
