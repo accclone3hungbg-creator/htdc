@@ -6,7 +6,7 @@ enum AppConfig {
     /// Để "" = app chạy hoàn toàn từ bộ file nhúng trong app (khuyên dùng).
     /// Muốn app mở thẳng bản web online thì dán link vào đây, ví dụ:
     /// "https://ten-ban.github.io/ten-repo/"
-    static let remoteStartURL: String = ""
+    static let remoteStartURL: String = "https://accclone3hungbg-creator.github.io/htdc/Web"
 
     /// Trang bắt đầu khi chạy offline (bỏ qua index.html cho khỏi nháy màn hình).
     static let startPage: String = "run.html?res=auto&jar=game.jar"
